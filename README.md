@@ -7,4 +7,5 @@ Simples pôster de um filme feito para praticar conceitos iniciais de react
  
   ## Layout
   
-![print](https://user-images.githubusercontent.com/112594906/234651214-a89f0f44-f735-4cf2-883b-f50ce4b7d81a.png)
+![print2](https://user-images.githubusercontent.com/112594906/234667078-fbdc0979-88c2-4a26-9c1f-182a6cf4fefd.png)
+![print3](https://user-images.githubusercontent.com/112594906/234667081-7ed5883f-8d8b-4da8-a3af-e47d996ef718.png)
